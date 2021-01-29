@@ -16,7 +16,7 @@ Create a new react app called `dino-blog` using `create-react-app`.
 
 Inside of `./src` folder, create a new React Component file called `Post.js`.
 
-Write a new React component object that has the following properties:
+Write a new React component object that accepts the following properties:
 
 - `postTitle`
 - `author`
